@@ -1,2 +1,2 @@
 # NewsSwipe
-A Tinder-like Android-based News App
+A Android-based News Swipe App
