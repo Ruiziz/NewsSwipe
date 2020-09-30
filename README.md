@@ -16,7 +16,7 @@ NewsSwipe is an interactive news app based on the MVVM Pattern, a Google Compone
 ## Launch
 1. Copy this code repo to your local device.
 2. Open Android Studio (or any other suitable IDE you frequently used), import this project in.
-3. Before you want to run this project, don't forgrt to choose a virtual mobile device, I recommend 'Pixel 3 API 29'.
+3. Before you want to run this project, don't forget to choose a virtual mobile device, I recommend 'Pixel 3 API 29'.
 5. Click green arrow 'Run App'.
 6. All set. Now you can see NewsSwipe installed on your virtual device. 
 
