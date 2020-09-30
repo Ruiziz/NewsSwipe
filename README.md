@@ -1,5 +1,5 @@
 # NewsSwipe
-A Android-based News Swipe App
+An Android-based News Swipe App
 ## Introduction
 NewsSwipe is an interactive news app based on the MVVM Pattern, a Google Component Architecture. Users can either swipe or click to (dis)like news on the homepage. We also provide search page to search news by keywords. Moverover, users can recheck news and their details they stared before.
 
