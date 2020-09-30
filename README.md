@@ -15,11 +15,10 @@ NewsSwipe is an interactive news app based on the MVVM Pattern, a Google Compone
 
 ## Launch
 1. Copy this code repo to your local device.
-2. Open Eclipse (or any other suitable IDE you frequently used), import this project as 'existed maven project'.
-3. Before you want to run this project, fill your own Amazon RDS endpoint and password in the 'ApplicationConfig' file under src/main/java package.
-4. Right click on 'pom.xml' file and choose run as 'Maven Install'.
-5. After you see 'Build Success' in console, right click the project folder and choose 'Run on Server'. (Make sure you have installed Tomcat Server on your IDE already, detailed [here](https://crunchify.com/step-by-step-guide-to-setup-and-install-apache-tomcat-server-in-eclipse-development-environment-ide/)).
-6. All set. Now you can see JobPlus run on your localhost. 
+2. Open Android Studio (or any other suitable IDE you frequently used), import this project in.
+3. Before you want to run this project, don't forgrt to choose a virtual mobile device, I recommend 'Pixel 3 API 29'.
+5. Click green arrow 'Run App'.
+6. All set. Now you can see NewsSwipe installed on your virtual device. 
 
 ## Demo vedio
 Here is a demo video for NewsSwipe, youtube link [here](https://youtu.be/4wKgVrIKnTo).
